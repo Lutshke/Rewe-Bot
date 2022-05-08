@@ -1,0 +1,28 @@
+1652010919342	geckodriver	INFO	Listening on 127.0.0.1:55048
+1652010922369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Razke\\AppData\\Local\\Temp\\rust_mozprofileAkZvF7"
+1652010922694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Razke\\AppData\\Local\\Temp\\rust_mozprofileAkZvF7\\search.json.mozlz4", (void 0)))
+1652010924795	Marionette	INFO	Listening on port 55079
+Read port: 55079
+1652010924859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.rewe.de/angebote/dettingen/865862/rewe-markt-kirchheimer-str-138 line 6 > injectedScript, line 2: ReferenceError: fbq is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rewe.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rewe.de"
+1652010933090	Marionette	INFO	Stopped listening on port 55079
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652011180581	geckodriver	INFO	Listening on 127.0.0.1:64440
+1652011183600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Razke\\AppData\\Local\\Temp\\rust_mozprofileSRnM0V"
+1652011183949	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Razke\\AppData\\Local\\Temp\\rust_mozprofileSRnM0V\\search.json.mozlz4", (void 0)))
+1652011185953	Marionette	INFO	Listening on port 64462
+Read port: 64462
+1652011186067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.rewe.de/angebote/dettingen/865862/rewe-markt-kirchheimer-str-138 line 6 > injectedScript, line 2: ReferenceError: fbq is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rewe.de"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.rewe.de"
+1652011193376	Marionette	INFO	Stopped listening on port 64462
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
