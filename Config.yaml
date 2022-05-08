@@ -1,6 +1,8 @@
 rewe_url: https://www.rewe.de/angebote/dettingen/865862/rewe-markt-kirchheimer-str-138
 webhook_url: https://discord.com/api/webhooks/972829351575945236/oOaMrI2tFaI0OSht2ns6wH7x80rdXyODt846EPgGCbfv0Yn3OcULGLwUGxFr9N_d2b_6
 
+webdriver: firefox # chrome | firefox
+
 ignore: [
   "Topangebote",
   "Auf in die Spargelsaison", 
